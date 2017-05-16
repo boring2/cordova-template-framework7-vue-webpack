@@ -37,8 +37,6 @@
     "webpack-dev-server": "^2.4.1"
   },
   "dependencies": {
-    "framework7": "^1.5.4",
-    "framework7-vue": "^0.8.5",
     "vue": "^2.2.4"
   }
 }
