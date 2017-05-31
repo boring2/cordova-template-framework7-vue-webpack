@@ -1,3 +1,7 @@
+
+## fork from centrual/cordova-template-framework7-vue-webpack
+## but I remove the framework7, just remain vue.
+
 <!--
 #
 # Licensed to the Apache Software Foundation (ASF) under one
